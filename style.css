@@ -6,6 +6,10 @@ font-family: Helvetica, serif;
 font-size: 36px;
 text-align: center;
 }
+
+.image {
+  color: DarkBlue;
+}
 .personalinfo {
   font-size: 36px
   text-align: center
