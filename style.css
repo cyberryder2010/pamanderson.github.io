@@ -1,5 +1,10 @@
 h1 {
 font-family: Helvetica, serif;
 font-size: 36px;
-text-align: centered;
+text-align: center;
+}
+
+p {
+  font-family: Calibri, serif;
+  color: Black;
 }
