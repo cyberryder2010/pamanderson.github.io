@@ -17,6 +17,7 @@ img {
 .image {
   width: 20%;
   display: inline-block;
+  padding-top: 10%;
 }
 .personalinfo {
   font-size: 28px;
