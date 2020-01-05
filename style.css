@@ -17,6 +17,7 @@ text-align: center;
 .personalinfo {
   font-size: 36px;
   text-align: center;
+  width: 100%;
   display: inline-block;
 }
 .personalinfo>*{
