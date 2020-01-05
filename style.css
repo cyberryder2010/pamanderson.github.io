@@ -8,14 +8,14 @@ text-align: center;
 }
 
 .image {
-  color: DarkBlue;
+  width: 30%;
 }
 .personalinfo {
   font-size: 36px;
   text-align: center
 }
 .personalinfo>*{
-  width: 100%;
+  width: 60%;
 }
 p {
   font-family: Calibri, serif;
