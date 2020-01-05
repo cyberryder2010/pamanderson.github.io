@@ -19,6 +19,7 @@ text-align: center;
   text-align: center;
   width: 50%;
   display: inline-block;
+  vertical-align: top;
 }
 .personalinfo>*{
   width: 60%;
