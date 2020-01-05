@@ -11,17 +11,18 @@ font-size: 36px;
 text-align: center;
 }
 .image {
-  width: 30%;
+  width: 100%;
   display: inline-block;
 }
 .personalinfo {
   font-size: 36px;
   text-align: center;
-  width: 100%;
+  width: 80%;
   display: inline-block;
 }
 .personalinfo>*{
   width: 60%;
+  display: block;
 }
 p {
   font-family: Calibri, serif;
