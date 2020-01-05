@@ -1,7 +1,7 @@
 body {
   background-color: LightBlue;
-  padding: 30px;
-  margin: 2px;
+  padding: 50px;
+  margin: 10px;
 }
 .ishidden {
   display: none;
@@ -12,14 +12,14 @@ font-size: 36px;
 text-align: center;
 }
 img {
-  width: 100%;
+  width: 80%;
 }
 .image {
   width: 25%;
   display: inline-block;
 }
 .personalinfo {
-  font-size: 36px;
+  font-size: 28px;
   text-align: center;
   width: 70%;
   display: inline-block;
