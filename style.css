@@ -3,7 +3,13 @@ font-family: Helvetica, serif;
 font-size: 36px;
 text-align: center;
 }
-
+.personalinfo {
+  font-size: 24px
+  text-align: center
+}
+.personalinfo>*{
+  width: 100%;
+}
 p {
   font-family: Calibri, serif;
   color: Black;
