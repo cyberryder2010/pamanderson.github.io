@@ -10,14 +10,13 @@ font-family: Helvetica, serif;
 font-size: 36px;
 text-align: center;
 }
-
 .image {
   width: 30%;
   display: inline-block;
 }
 .personalinfo {
   font-size: 36px;
-  text-align: center
+  text-align: center;
   display: inline-block;
 }
 .personalinfo>*{
