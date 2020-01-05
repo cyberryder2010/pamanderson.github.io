@@ -1,5 +1,6 @@
-body{
+body {
   padding: 30px;
+  margin: 2px;
 }
 .ishidden {
   display: none;
